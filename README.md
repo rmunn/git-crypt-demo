@@ -1,0 +1,1 @@
+Demo of using git-crypt to protect secrets in a repo
